@@ -1,3 +1,2 @@
 # nfl-teams-api
-# nfl-api
-# nfl-api
+This API will return the team abbreviations for all NFL teams. 
